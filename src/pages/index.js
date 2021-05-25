@@ -5,9 +5,10 @@ import PostsGrid from '../components/PostsGrid';
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
 
-import linkedinIcon from '../../static/linkedin.svg';
+
 import GithubIcon from '../../static/github.svg';
 import InstagramIcon from '../../static/instagram.svg';
+import linkedinIcon from '../../static/linkedin.svg';
 
 import './style.scss';
 
