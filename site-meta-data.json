@@ -1,13 +1,13 @@
 {
   "title": "Books and Banter",
-  "siteUrl": "https://thecodedose.com/",
+  "siteUrl": "https://cranky-morse-46fe75.netlify.app/",
   "email": "ineffable.insights@gmail.com",
-  "description": "A pre-Final year ECE undergraduate interested in Internet of Things, Web development and Blogging. Connect with me on LinkedIn to know what I am up to!",
+  "description": "Hello people! I am prathyusha, A pre-Final year Electronics and Communications Engineering student. Interested in the Internet of Things, Web development and Blogging. Find out more about me and get a glimpse of what I am developing by following this space. Connect with me on LinkedIn to know what I am up to!",
   "social": {
-    "linkedin" : "https://www.linkedin.com/in/sai-prathyusha/",
+    "linkedin": "https://www.linkedin.com/in/sai-prathyusha/",
     "instagram": "https://www.instagram.com/books.n.banter/",
     "linktree": "https://linktr.ee/Prathyusha2000",
     "github": "https://github.com/Prathyusha2210",
-    "portfolio" : "https://the-awesome-prathyusha-site.netlify.app/"
+    "portfolio": "https://the-awesome-prathyusha-site.netlify.app/"
   }
 }
