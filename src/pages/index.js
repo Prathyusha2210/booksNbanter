@@ -5,7 +5,7 @@ import PostsGrid from '../components/PostsGrid';
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
 
-import likedinIcon from '../../static/linkedin.png';
+import linkedinIcon from '../../static/linkedin.png';
 import GithubIcon from '../../static/github.svg';
 import InstagramIcon from '../../static/instagram.svg';
 
@@ -15,7 +15,7 @@ const HomePage = ({ data, location }) => {
   const {
     site: {
       siteMetadata: {
-        title, email, description, social: { likedinIcon, instagram, github },
+        title, description, social: { linkedin, instagram, github },
       },
     },
   } = data;
@@ -29,8 +29,8 @@ const HomePage = ({ data, location }) => {
         <div>
           <h1>{title}</h1>
           <p>{description}</p>
-          <a href={twitter} target="__blank">
-            <TwitterIcon className="about__social-links" />
+          <a href={linkedin} target="__blank">
+            <linkedinIcon className="about__social-links" />
           </a>
           <a href={github} target="__blank">
             <GithubIcon className="about__social-links" />
@@ -38,7 +38,7 @@ const HomePage = ({ data, location }) => {
           <a href={instagram} target="__blank">
             <InstagramIcon className="about__social-links" />
           </a>
-          <a href={`mailto:${email}`} className="about__cta">Work with Me &#8594;</a>
+          <a href={"https://linktr.ee/Prathyusha2000"} className="about__cta">Work with Me &#8594;</a>
         </div>
       </section>
       <PostsGrid posts={posts} />
@@ -56,7 +56,7 @@ export const pageQuery = graphql`
         description
         email
         social {
-          likedin
+          linkedin
           instagram
           github
         }
