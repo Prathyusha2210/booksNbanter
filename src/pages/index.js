@@ -5,7 +5,7 @@ import PostsGrid from '../components/PostsGrid';
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
 
-import TwitterIcon from '../../static/twitter.svg';
+import likedinIcon from '../../static/linkedin.png';
 import GithubIcon from '../../static/github.svg';
 import InstagramIcon from '../../static/instagram.svg';
 
@@ -15,7 +15,7 @@ const HomePage = ({ data, location }) => {
   const {
     site: {
       siteMetadata: {
-        title, email, description, social: { twitter, instagram, github },
+        title, email, description, social: { likedinIcon, instagram, github },
       },
     },
   } = data;
@@ -56,7 +56,7 @@ export const pageQuery = graphql`
         description
         email
         social {
-          twitter
+          likedin
           instagram
           github
         }
