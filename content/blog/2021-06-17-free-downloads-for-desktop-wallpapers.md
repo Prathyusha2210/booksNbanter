@@ -1,10 +1,13 @@
 ---
 template: BlogPost
-slug: /blog
+slug: /freedownloads
 date: 2021-06-17T10:31:00.000Z
 title: Free Downloads for Desktop Wallpapers
 tags:
   - "#calendars #Wallpapers #quotes #aesthetic"
+metaDescription: "I am a design enthusiast and I like to share the designs I
+  created to get feedback and improve them. You can find some of my work in the
+  kink given and these are free to download and use. "
 thumbnail: /images/books-and-vase.jpg
 ---
 Hey guys! 
