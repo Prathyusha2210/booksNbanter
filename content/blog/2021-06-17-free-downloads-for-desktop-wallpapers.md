@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-slug: /downloads
+slug: /blog
 date: 2021-06-17T10:31:00.000Z
 title: Free Downloads for Desktop Wallpapers
 tags:
