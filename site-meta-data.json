@@ -2,11 +2,15 @@
   "title": "Books and Banter",
   "siteUrl": "https://cranky-morse-46fe75.netlify.app/",
   "email": "ineffable.insights@gmail.com",
-  "description": "Hello people! I am prathyusha, A pre-Final year Electronics and Communications Engineering student. Interested in the Internet of Things, Web development and Blogging. Find out more about me and get a glimpse of what I am developing by following this space. Connect with me on LinkedIn to know what I am up to!",
+  "description": "Hello people! I am prathyusha, A pre-Final year Electronics and Communications Engineering student. Interested in tech domains like Internet of Things and Web development. I like to articulate my learning journey through a series of blogs. Find out more about me and get a glimpse of what I am developing by following this space. Connect with me on LinkedIn to know what I am up to!",
   "social": {
     "linkedin": "https://www.linkedin.com/in/sai-prathyusha/",
     "instagram": "https://www.instagram.com/books.n.banter/",
     "github": "https://github.com/Prathyusha2210",
     "portfolio": "https://the-awesome-prathyusha-site.netlify.app/"
+  },
+  "home": {
+    "description": "Hello people! I am prathyusha, A pre-Final year Electronics and Communications Engineering student. Interested in tech domains like Internet of Things and Web development. I like to articulate my learning journey through a series of blogs. Find out more about me and get a glimpse of what I am developing by following this space. Connect with me on LinkedIn to know what I am up to!",
+    "title": "Books and Banter"
   }
 }
