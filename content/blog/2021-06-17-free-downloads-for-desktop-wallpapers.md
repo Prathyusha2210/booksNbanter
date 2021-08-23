@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 slug: /freedownloads
-date: 2021-06-17T10:31:00.000Z
+date: 2021-08-23T17:31:21.806Z
 title: Free Downloads for Desktop Wallpapers
 tags:
   - "#calendars #Wallpapers #quotes #aesthetic"
