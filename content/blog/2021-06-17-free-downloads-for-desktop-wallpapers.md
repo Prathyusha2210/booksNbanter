@@ -4,7 +4,7 @@ slug: /freedownloads
 date: 2021-08-23T17:31:21.806Z
 title: Free Downloads for Desktop Wallpapers
 tags:
-  - "#calendars #Wallpapers #quotes #aesthetic"
+  - calendars Wallpapers quotes aesthetic
 metaDescription: "I am a design enthusiast and I like to share the designs I
   created to get feedback and improve them. You can find some of my work in the
   kink given and these are free to download and use. "
